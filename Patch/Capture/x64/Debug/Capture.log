@@ -1,0 +1,16 @@
+﻿  main.cpp
+D:\source\good luck\final\Patch\Capture\main.cpp(126,20): warning C4477: “printf”: 格式字符串“%lu”需要类型“unsigned long”的参数，但可变参数 1 拥有了类型“size_t”
+D:\source\good luck\final\Patch\Capture\main.cpp(126,20): message : 请考虑在格式字符串中使用“%zu”
+D:\source\good luck\final\Patch\Capture\main.cpp(130,17): warning C4477: “wprintf”: 格式字符串“%lu”需要类型“unsigned long”的参数，但可变参数 1 拥有了类型“size_t”
+D:\source\good luck\final\Patch\Capture\main.cpp(130,17): message : 请考虑在格式字符串中使用“%zu”
+D:\source\good luck\final\Patch\Capture\main.cpp(144,20): warning C4477: “printf”: 格式字符串“%lu”需要类型“unsigned long”的参数，但可变参数 2 拥有了类型“size_t”
+D:\source\good luck\final\Patch\Capture\main.cpp(144,20): message : 请考虑在格式字符串中使用“%zu”
+D:\source\good luck\final\Patch\Capture\main.cpp(151,16): warning C4477: “printf”: 格式字符串“%lu”需要类型“unsigned long”的参数，但可变参数 1 拥有了类型“unsigned __int64”
+D:\source\good luck\final\Patch\Capture\main.cpp(151,16): message : 请考虑在格式字符串中使用“%zu”
+D:\source\good luck\final\Patch\Capture\main.cpp(163,20): warning C4477: “printf”: 格式字符串“%lu”需要类型“unsigned long”的参数，但可变参数 1 拥有了类型“size_t”
+D:\source\good luck\final\Patch\Capture\main.cpp(163,20): message : 请考虑在格式字符串中使用“%zu”
+D:\source\good luck\final\Patch\Capture\main.cpp(197,20): warning C4477: “printf”: 格式字符串“%lu”需要类型“unsigned long”的参数，但可变参数 2 拥有了类型“unsigned __int64”
+D:\source\good luck\final\Patch\Capture\main.cpp(197,20): message : 请考虑在格式字符串中使用“%zu”
+D:\source\good luck\final\Patch\Capture\main.cpp(243,20): warning C4477: “printf”: 格式字符串“%lu”需要类型“unsigned long”的参数，但可变参数 2 拥有了类型“unsigned __int64”
+D:\source\good luck\final\Patch\Capture\main.cpp(243,20): message : 请考虑在格式字符串中使用“%zu”
+D:\source\good luck\final\Patch\Capture\main.cpp(560,10): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.

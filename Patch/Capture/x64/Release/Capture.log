@@ -1,0 +1,22 @@
+﻿  main.cpp
+D:\source\good luck\final\Patch\Capture\main.cpp(126,20): warning C4477: “printf”: 格式字符串“%lu”需要类型“unsigned long”的参数，但可变参数 1 拥有了类型“size_t”
+D:\source\good luck\final\Patch\Capture\main.cpp(126,20): message : 请考虑在格式字符串中使用“%zu”
+D:\source\good luck\final\Patch\Capture\main.cpp(130,17): warning C4477: “wprintf”: 格式字符串“%lu”需要类型“unsigned long”的参数，但可变参数 1 拥有了类型“size_t”
+D:\source\good luck\final\Patch\Capture\main.cpp(130,17): message : 请考虑在格式字符串中使用“%zu”
+D:\source\good luck\final\Patch\Capture\main.cpp(144,20): warning C4477: “printf”: 格式字符串“%lu”需要类型“unsigned long”的参数，但可变参数 2 拥有了类型“size_t”
+D:\source\good luck\final\Patch\Capture\main.cpp(144,20): message : 请考虑在格式字符串中使用“%zu”
+D:\source\good luck\final\Patch\Capture\main.cpp(151,16): warning C4477: “printf”: 格式字符串“%lu”需要类型“unsigned long”的参数，但可变参数 1 拥有了类型“unsigned __int64”
+D:\source\good luck\final\Patch\Capture\main.cpp(151,16): message : 请考虑在格式字符串中使用“%zu”
+D:\source\good luck\final\Patch\Capture\main.cpp(163,20): warning C4477: “printf”: 格式字符串“%lu”需要类型“unsigned long”的参数，但可变参数 1 拥有了类型“size_t”
+D:\source\good luck\final\Patch\Capture\main.cpp(163,20): message : 请考虑在格式字符串中使用“%zu”
+D:\source\good luck\final\Patch\Capture\main.cpp(197,20): warning C4477: “printf”: 格式字符串“%lu”需要类型“unsigned long”的参数，但可变参数 2 拥有了类型“unsigned __int64”
+D:\source\good luck\final\Patch\Capture\main.cpp(197,20): message : 请考虑在格式字符串中使用“%zu”
+D:\source\good luck\final\Patch\Capture\main.cpp(243,20): warning C4477: “printf”: 格式字符串“%lu”需要类型“unsigned long”的参数，但可变参数 2 拥有了类型“unsigned __int64”
+D:\source\good luck\final\Patch\Capture\main.cpp(243,20): message : 请考虑在格式字符串中使用“%zu”
+D:\source\good luck\final\Patch\Capture\main.cpp(423,43): warning C4018: “<”: 有符号/无符号不匹配
+D:\source\good luck\final\Patch\Capture\main.cpp(424,47): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 167 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  Capture.vcxproj -> D:\source\good luck\final\Patch\x64\Release\Capture.exe
